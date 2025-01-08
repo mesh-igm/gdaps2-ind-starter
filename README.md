@@ -1,5 +1,5 @@
 # ps-dsa-ind-starter
-This is a template project for students to use in GDAPS 106 to track demo and individual assignment code.
+This is a template project for students to use in IGME 106 to track demo and individual assignment code.
 
 # Getting Started
 
